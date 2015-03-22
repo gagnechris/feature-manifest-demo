@@ -1,6 +1,11 @@
 # feature-manifest-demo
 Example implementation of feature manifests in Java
 
+## API
+http://localhost:8080/greeting
+
+http://localhost:8080/greeting?name=Chris
+
 ## Changing manifests
 
 ### Staging
