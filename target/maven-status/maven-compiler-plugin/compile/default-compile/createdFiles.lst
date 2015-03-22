@@ -1,9 +1,0 @@
-demo/Application.class
-demo/controller/ManifestController.class
-demo/model/Status.class
-demo/controller/IGreetingController.class
-demo/controller/v002/GreetingControllerImpl.class
-demo/ManifestDictionary.class
-demo/controller/GreetingController.class
-demo/model/Greeting.class
-demo/controller/v001/GreetingControllerImpl.class
